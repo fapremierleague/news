@@ -1,2 +1,1 @@
-# news
-Premier League News
+# Premier League News
